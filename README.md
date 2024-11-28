@@ -1,6 +1,7 @@
 # Social-Buzz-Content-Analysis
 
-![pexels-lamiko-3616764](https://github.com/user-attachments/assets/1b27b61c-0493-4f93-ab48-f67718346fbc)
+![pexels-mart-production-7679733](https://github.com/user-attachments/assets/72b3c741-2fda-464b-9ec2-fcaeaab6a36d)
+
 
 
 # Overview
@@ -43,6 +44,7 @@ Data Cleaning Steps:
 Data Merging:
 
 I integrated three datasets into a unified cleaned dataset for analysis.
+
 The final Cleaned Dataset can be found [HERE](https://github.com/NonsoSk/Social-Buzz-Content-Analysis/blob/main/Cleaned%20Dataset.xlsx)
 
 # Analysis Proper
@@ -75,7 +77,7 @@ January shows a significant peak in posts (2,142), but a sharp drop occurs in Fe
 
 Secondly, a resurgence from March through June followed by fluctuations suggests an opportunity to stabilize posting frequency.
 
-To gain more insights, we can interact with the dashboard [HERE](https://app.powerbi.com/view?r=eyJrIjoiMTIwZjk2MzctNzk3Ni00NTUwLWExNjEtNDUwNzczNjBkMWUzIiwidCI6ImY4NzNhMzA5LTg2ZjgtNDg4OS05OTcxLTEzMDQwNDM0NjZmNCJ9)
+To gain more insights, you can interact with the dashboard [HERE](https://app.powerbi.com/view?r=eyJrIjoiMTIwZjk2MzctNzk3Ni00NTUwLWExNjEtNDUwNzczNjBkMWUzIiwidCI6ImY4NzNhMzA5LTg2ZjgtNDg4OS05OTcxLTEzMDQwNDM0NjZmNCJ9)
 
 # Conclusion
 
